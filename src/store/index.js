@@ -3,7 +3,7 @@ import EventService from '@/services/EventService'
 
 export default createStore({
   state: {
-    user: 'Adam Jahr',
+    user: 'Dona Hsieh',
     events: [],
     event: null
   },
